@@ -1,18 +1,32 @@
-# Bienvenue sur mon profil GitHub!
+### Qui suis-je ?
 
-Je suis un étudiant passionné par les `logiciels` et `l'analyse de données`.
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%teal&size=23&center=true&vCenter=true&lines=Toni+Mathieu"></h1>
 
-### Compétences acquis
-- [x] PHP
-- [x] MySQL
-- [x] Bootstrap
+- Bonjour !💻 Je suis un étudiant en informatique passioné par le développement de logiciels.
 
-### En cours d'apprentissage
-- [ ] C
-- [ ] Javascript
-- [ ] Python
-- [ ] Java/JSP
+- Je suis aussi capable de travailler dans un projet web dans la partie back-end.
 
-### Me contacter
-- [LinkedIn](https://www.linkedin.com/in/toni-mathieu-rasoanaivo-5b40643b6/)
-- [Email](mailto:rtmathieu013@gmail.com)
+- 📨 Si vous voulez me contacter, vous pouvez m'envoyer une email à rtmathieu013@gmail.com or on my LinkedIn profile https://www.linkedin.com/in/toni-mathieu-rasoanaivo-5b40643b6/.
+
+## 🗂️ Contributions: 
+
+<p align="center"> 
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=TMathieu101" alt="GitHub Streak Stats"/>
+    <br>
+</p>
+
+
+## 📍 Compétences techniques ***EN COURS D'APPRENTISSAGE*** : 
+<p align="center">
+   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+   <!-- <img src="https://img.icons8.com/color/48/000000/typescript.png"/> -->
+   <!-- <img src="https://img.icons8.com/color/48/000000/firebase.png"/> -->
+   <img src="https://img.icons8.com/color/48/000000/php.png"/>
+   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+   <!-- <img src="https://img.icons8.com/?size=48&id=74402&format=png&color=000000"/> -->
+   <img src="https://img.icons8.com/color/48/000000/bash.png"/>
+   <img src="https://img.icons8.com/color/48/000000/docker.png"/> 
+   <!-- <img src="https://img.icons8.com/?size=48&id=24895&format=png&color=000000"/> -->
+</p>
